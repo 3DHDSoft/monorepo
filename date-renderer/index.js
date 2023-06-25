@@ -1,4 +1,4 @@
-const getDate = require('@ivanfarkas/date-logic');
+const getDate = require('@3DHDSoft/date-logic');
 
 (() => {
   console.log(`Date: ${getDate()}`);

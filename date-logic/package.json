@@ -1,14 +1,14 @@
 {
-  "name": "@ivanfarkas/date-logic",
+  "name": "@3dhdsoft/date-logic",
   "version": "1.0.0",
   "description": "A package that returns the current date",
   "author": "Ivan Farkas",
   "license": "ISC",
   "keywords": [],
   "main": "index.js",
-  "repository": "https://github.com/ivanfarkas/monorepo",
+  "repository": "https://github.com/3DHDSoft/monorepo",
   "publishConfig": {
-     "@ivanfarkas:registry": "https://npm.pkg.github.com/ivanfarkas"
+     "@3DHDSoft:registry": "https://npm.pkg.github.com/3DHDSoft"
   },
 	"scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
