@@ -2,7 +2,11 @@
   "$schema": "node_modules/lerna/schemas/lerna-schema.json",
   "version": "independent",
   "packages": [
-    "date-logic/*",
-    "date-renderer/*"
-  ]
+    "packages/*"
+  ],
+  "command": {
+    "publish": {
+      "registry": "https://npm.pkg.github.com/ivanfarkas"
+    }
+  }
 }
